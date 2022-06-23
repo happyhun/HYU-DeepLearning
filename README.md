@@ -8,5 +8,4 @@
 
 ## 목차
 1. [Logistic Regression](https://github.com/happyhun/HYU-DeepLearning/tree/main/LogisticRegression)
-2. []
-3. []
+2. [Neural Network 2-layer]
