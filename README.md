@@ -7,6 +7,6 @@
 - Jupyter Notebook
 
 ## 목차
-1. [Logistic Regression]
+1. [Logistic Regression](https://github.com/happyhun/HYU-DeepLearning/tree/main/LogisticRegression)
 2. []
 3. []
